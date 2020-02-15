@@ -1,2 +1,2 @@
 # Coursera_Capstone
-DataScience project
+DataScience project as a part of IBM certification for DataScience Professional
